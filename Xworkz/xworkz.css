@@ -1,0 +1,80 @@
+.container-fluid{
+    background-color: black;
+}
+.a{
+    color:white;
+}
+.nav-item{
+    margin:10px;
+    padding: 3px;
+    /* background-color: red; */
+}
+.nav-item a:hover{
+    background-color: red;
+}
+.paragraph{
+    display: flex;
+    margin: 20px;
+    color:black;
+    background-color: red;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+marquee:hover{
+     background-color: darkred;
+}
+.main{
+    width:300px;
+    height:100px;
+    margin:150px;
+    position: relative;
+    transform: skew(10deg);
+    transform: translateX(10px);
+}
+p{
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+}
+.one{
+    padding: 30px;
+    margin: 180px;
+}
+button{
+    padding: 5px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: darkorange;
+}
+button:hover{
+
+    background-color: blue;
+}
+.flex{
+    display: flex;
+}
+.Teach{
+    display: flex;
+    margin-left:150px;
+}
+.img{
+    margin: 20px;
+}
+.four{
+    /* border: 1px solid black; */
+    padding-left: 250px;
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.five{
+    display: flex;
+
+}
+.About{
+    background-color: grey;
+}
+.six{
+    text-align: center;
+}
